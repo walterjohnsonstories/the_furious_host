@@ -1,1 +1,21 @@
 C:\Users\walt\the_furious_host
+
+
+http://stackoverflow.com/questions/10116373/git-push-error-repository-not-found
+
+git init
+
+git status 
+
+The status command reports that there is nothing to commit. This means that the repository has all the current state of the working directory. There are no outstanding changes to record.
+
+We will use the git status command to continue to monitor the state between the repository and the working directory.
+
+
+git add "name_of_file"
+
+git commit -m "name_of_file"
+
+
+https://www.youtube.com/watch?v=tpKCqp9CALQ&list=RDTlLWFa1b1Bc&index=8
+
